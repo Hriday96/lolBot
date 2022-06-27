@@ -1,0 +1,2 @@
+# lolBot
+ Discord Music Bot
